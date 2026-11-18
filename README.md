@@ -8,6 +8,7 @@ Rust 학습용 저장소입니다.
 | --- | --- |
 | `main.rs` | `rustc`로 직접 컴파일하는 Hello, world! 예제 |
 | `hello_cargo/` | Cargo로 만든 Hello, world! 프로젝트 (edition 2024) |
+| `rock-paper-scissors/` | 표준 입력으로 가위/바위/보를 입력받는 예제 (edition 2024) |
 
 ## 실행 방법
 
